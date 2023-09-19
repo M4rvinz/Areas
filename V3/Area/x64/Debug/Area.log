@@ -1,0 +1,3 @@
+﻿  Area.cpp
+C:\Users\marvi\Documents\VS Ejercicios\Area\Area.cpp(13,24): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Area.vcxproj -> C:\Users\marvi\Documents\VS Ejercicios\Area\x64\Debug\Area.exe
